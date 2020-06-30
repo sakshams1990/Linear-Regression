@@ -14,4 +14,4 @@ Input variables are fixed acidity, volatile acidity, citric acid, residual sugar
 
 **The RMSE of the train and set are  0.65 and 0.63 respectively**
 
-
+**Inference** - This is a Multiple Linear Regression model that has been built with RMSE of 0.63 on test data. 
